@@ -43,3 +43,7 @@ face_detect face_album 来实现人脸检测 以及在线数据库的构建
 如果想使用本地的环境搭建的内容
 可参考我的deep-learning项目
 基于tensorflow 1.13 搭建的人脸识别
+
+
+
+iddatabase/mainwidow.png
