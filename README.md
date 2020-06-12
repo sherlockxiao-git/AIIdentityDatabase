@@ -44,5 +44,5 @@ face_detect face_album 来实现人脸检测 以及在线数据库的构建
 可参考我的deep-learning项目
 基于tensorflow 1.13 搭建的人脸识别
 
-
-![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
+以下为项目主界面
+![image](https://github.com/sherlockxiao-git/AIIdentityDatabase/blob/master/iddatabase/mainwidow.png)
