@@ -22,3 +22,7 @@ face_detect face_album 来实现人脸检测 以及在线数据库的构建
 #### useact.py 封装了用户可进行的操作
 可以针对自己的需求 对方法进行扩展
 实现功能增强
+
+如果想使用本地的环境搭建的内容
+可参考我的deep-learning项目
+基于tensorflow 1.13 搭建的人脸识别
